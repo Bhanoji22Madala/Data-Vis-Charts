@@ -1,0 +1,84 @@
+/* =====================  “Hist” Dark-Teal Theme – Pie Chart  ===================== */
+
+/* ---------- global layout ---------- */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0d0d0d;          /* page backdrop */
+  color: #d9d9d9;
+}
+
+h1 {
+  margin: 0.5rem 0 0.75rem;
+  text-align: center;
+  color: #01c5c4;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.subtitle {
+  font-size: 0.78em;
+  font-weight: 400;
+  color: #b8de6f;
+}
+
+/* ---------- svg canvas ---------- */
+svg {
+  background: #ffffff;          /* <— white chart area */
+  overflow: visible;
+  border-radius: 6px;           /* soft corners look nicer on dark bg */
+  box-shadow: 0 0 6px rgba(0,0,0,0.4);
+}
+
+/* ---------- pie slices ---------- */
+.slice {
+  transition: fill 150ms ease;
+}
+.slice:hover {
+  filter: brightness(1.3);
+}
+
+/* inner stroke so wedges remain crisp on white */
+.slice,
+.arc-slice {
+  stroke: #ffffff;
+  stroke-width: 1px;
+}
+
+/* ---------- leader (“callout”) lines ---------- */
+.callout {
+  stroke: #444;                 /* darker grey visible on white */
+  stroke-width: 0.7px;
+  fill: none;
+  pointer-events: none;
+}
+
+/* ---------- outside labels ---------- */
+.labels text {
+  font-size: 12px;
+  fill: #303030;                /* dark text for white canvas */
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.labels tspan:first-child {
+  font-weight: 600;
+  fill: #01a9a8;                /* slightly deeper teal than slice hover */
+}
+
+/* ---------- tooltip ---------- */
+.tooltip {
+  position: absolute;
+  background: #1a1a1a;
+  border: 1px solid #01c5c4;
+  border-radius: 4px;
+  padding: 6px 8px;
+  font-size: 12px;
+  pointer-events: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  line-height: 1.2;
+}
+
+.tooltip .fuel  { font-weight: 600; color: #01c5c4; margin-bottom: 2px; }
+.tooltip .value { color: #f39233; }
+.tooltip .pct   { color: #b8de6f; }

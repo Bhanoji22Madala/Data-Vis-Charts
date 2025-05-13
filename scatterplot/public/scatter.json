@@ -1,0 +1,22 @@
+[
+  { "country": "China",                "gas": 4048.381, "solar": 1517.424 },
+  { "country": "United States",        "gas": 9793.479, "solar": 238.472 },
+  { "country": "India",                "gas": 986.829,  "solar": 124.316 },
+  { "country": "Russia",               "gas": 1651.49,  "solar": 3.631 },
+  { "country": "Japan",                "gas": 1437.776, "solar": 99.105 },
+  { "country": "Canada",               "gas": 2049.467, "solar": 7.679 },
+  { "country": "Brazil",               "gas": 299.88,   "solar": 133.733 },
+  { "country": "Iran",                 "gas": 1750.166, "solar": 4.747 },
+  { "country": "South Korea",          "gas": 1785.416, "solar": 29.133 },
+  { "country": "Saudi Arabia",         "gas": 1623.019, "solar": 4.415 },
+  { "country": "Germany",              "gas": 880.552,  "solar": 67.75 },
+  { "country": "Indonesia",            "gas": 556.172,  "solar": 2.072 },
+  { "country": "France",               "gas": 506.106,  "solar": 20.981 },
+  { "country": "Mexico",               "gas": 643.682,  "solar": 18.981 },
+  { "country": "Turkey",               "gas": 617.268,  "solar": 25.304 },
+  { "country": "United Kingdom",       "gas": 426.077,  "solar": 15.748 },
+  { "country": "Australia",            "gas": 1519.973, "solar": 36.018 },
+  { "country": "Italy",                "gas": 620.007,  "solar": 28.899 },
+  { "country": "Spain",                "gas": 451.858,  "solar": 41.099 },
+  { "country": "United Arab Emirates", "gas": 1407.029, "solar": 5.329 }
+]

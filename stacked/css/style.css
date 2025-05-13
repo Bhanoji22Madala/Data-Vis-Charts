@@ -1,0 +1,21 @@
+/* ---------- global ---------- */
+body{margin:0;background:#0d0d0d;color:#d9d9d9;font-family:system-ui,sans-serif;}
+h1{margin:.5rem 0;text-align:center;color:#01c5c4;font-weight:600}
+svg{background:#ffffff}
+
+/* ---------- axes ---------- */
+.axis text{fill:#303030;font-size:12px}
+.axis path,.axis line{stroke:#555}
+
+/* ---------- bars ---------- */
+.bar-fossil     {fill:#f39233}  /* orange  */
+.bar-renewables {fill:#01c5c4}  /* teal    */
+.bar-nuclear    {fill:#b8de6f}  /* lime    */
+.legend-item text {
+  font-family: system-ui, sans-serif;
+  font-weight: 500;
+}
+.legend-item rect {
+  stroke: #555;     /* optional border on swatch */
+  stroke-width: 1;
+}

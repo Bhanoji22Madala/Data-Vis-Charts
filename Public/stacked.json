@@ -1,0 +1,22 @@
+[
+  { "name": "China",          "Fossil": 33977.411, "Renewables": 8666.633, "Nuclear": 1083.629 },
+  { "name": "United States",  "Fossil": 14186.419, "Renewables": 3775.349, "Nuclear": 789.919 },
+  { "name": "India",          "Fossil": 11278.499, "Renewables": 1996.670, "Nuclear": 48.158 },
+  { "name": "Russia",         "Fossil": 19865.010, "Renewables": 1120.051, "Nuclear": 211.043 },
+  { "name": "Japan",          "Fossil": 3444.195,  "Renewables": 433.428,  "Nuclear": 42.612 },
+  { "name": "Canada",         "Fossil": 2817.479,  "Renewables": 650.695,  "Nuclear": 221.892 },
+  { "name": "Brazil",         "Fossil": 1877.918,  "Renewables": 2161.916, "Nuclear": 36.169 },
+  { "name": "Iran",           "Fossil": 19236.210, "Renewables": 322.876,  "Nuclear": 0.000 },
+  { "name": "South Korea",    "Fossil": 3520.537,  "Renewables": 207.210,  "Nuclear": 169.156 },
+  { "name": "Saudi Arabia",   "Fossil": 17844.610, "Renewables": 19.356,   "Nuclear": 0.000 },
+  { "name": "Germany",        "Fossil": 2152.417,  "Renewables": 978.151,  "Nuclear": 91.733 },
+  { "name": "Indonesia",      "Fossil": 2794.088,  "Renewables": 319.900,  "Nuclear": 0.000 },
+  { "name": "France",         "Fossil": 1156.631,  "Renewables": 298.539,  "Nuclear": 843.039 },
+  { "name": "Mexico",         "Fossil": 2302.286,  "Renewables": 205.448,  "Nuclear": 5.460 },
+  { "name": "Turkey",         "Fossil": 2233.995,  "Renewables": 397.117,  "Nuclear": 0.000 },
+  { "name": "United Kingdom", "Fossil": 1831.299,  "Renewables": 683.653,  "Nuclear": 48.158 },
+  { "name": "Australia",      "Fossil": 2540.638,  "Renewables": 513.770,  "Nuclear": 0.000 },
+  { "name": "Italy",          "Fossil": 1298.913,  "Renewables": 360.326,  "Nuclear": 0.000 },
+  { "name": "Spain",          "Fossil": 1420.795,  "Renewables": 523.348,  "Nuclear": 53.978 },
+  { "name": "United Arab Emirates", "Fossil": 3171.065, "Renewables": 122.471, "Nuclear": 21.000 }
+]

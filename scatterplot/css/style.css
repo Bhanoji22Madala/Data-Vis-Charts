@@ -1,0 +1,52 @@
+/* ---- layout ----------------------------------------------------------- */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0d0d0d;               /* dark backdrop like your histogram */
+  color: #d9d9d9;
+}
+
+h1 {
+  margin: 0.5rem 0 0.75rem;
+  text-align: center;
+  color: #01c5c4;                    /* teal highlight */
+}
+
+svg {
+  overflow: visible;
+}
+
+/* ---- axes ------------------------------------------------------------- */
+.axis text {
+  fill: #d9d9d9;
+  font-size: 12px;
+}
+.axis path,
+.axis line {
+  stroke: #444;
+}
+
+/* ---- dots ------------------------------------------------------------- */
+.dot {
+  fill: #01c5c4;
+}
+.dot-hovered {
+  fill: #f39233;                     /* orange highlight (matches hist exit) */
+  stroke: #0d0d0d;
+  stroke-width: 1.5px;
+}
+
+/* ---- tooltip ---------------------------------------------------------- */
+.tooltip {
+  position: absolute;
+  background: #1a1a1a;
+  border: 1px solid #01c5c4;
+  border-radius: 4px;
+  padding: 6px 8px;
+  font-size: 12px;
+  pointer-events: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.6);
+}
+.tooltip .country       { font-weight: 600; color: #01c5c4; margin-bottom: 2px; }
+.tooltip .metric-gas    { color: #f39233; }
+.tooltip .metric-solar  { color: #b8de6f; }

@@ -1,0 +1,282 @@
+[
+  {
+    "country": "China",
+    "currently": {
+      "Other renewables": 632.3686,
+      "Biofuels": 30.817583,
+      "Solar": 1517.4242,
+      "Wind": 2301.1907,
+      "Hydro": 3184.7217,
+      "Nuclear": 1083.6292,
+      "Gas": 4048.381,
+      "Coal": 25538.52,
+      "Oil": 9090.51
+    }
+  },
+  {
+    "country": "United States",
+    "currently": {
+      "Other renewables": 202.68272,
+      "Biofuels": 495.41937,
+      "Solar": 624.8033,
+      "Wind": 1115.7755,
+      "Hydro": 613.8828,
+      "Nuclear": 2034.4341,
+      "Gas": 8864.672,
+      "Coal": 2276.868,
+      "Oil": 9960.662
+    }
+  },
+  {
+    "country": "India",
+    "currently": {
+      "Other renewables": 119.01045,
+      "Biofuels": 34.336823,
+      "Solar": 294.5991,
+      "Wind": 213.28464,
+      "Hydro": 387.4861,
+      "Nuclear": 120.15947,
+      "Gas": 626.1031,
+      "Coal": 6105.902,
+      "Oil": 2936.9744
+    }
+  },
+  {
+    "country": "Russia",
+    "currently": {
+      "Other renewables": 2.393047,
+      "Biofuels": 4.8859444,
+      "Solar": 6.8445144,
+      "Wind": 12.332033,
+      "Hydro": 521.78107,
+      "Nuclear": 541.87024,
+      "Gas": 4533.7095,
+      "Coal": 1064.9701,
+      "Oil": 2003.2073
+    }
+  },
+  {
+    "country": "Japan",
+    "currently": {
+      "Other renewables": 131.91788,
+      "Biofuels": 4.97078,
+      "Solar": 251.95668,
+      "Wind": 25.99997,
+      "Hydro": 193.52408,
+      "Nuclear": 193.08649,
+      "Gas": 924.2079,
+      "Coal": 1260.1105,
+      "Oil": 1848.5994
+    }
+  },
+  {
+    "country": "Canada",
+    "currently": {
+      "Other renewables": 33.149395,
+      "Biofuels": 33.712906,
+      "Solar": 19.850298,
+      "Wind": 101.143326,
+      "Hydro": 946.0593,
+      "Nuclear": 221.89217,
+      "Gas": 1207.2723,
+      "Coal": 102.97444,
+      "Oil": 1208.8325
+    }
+  },
+  {
+    "country": "Brazil",
+    "currently": {
+      "Other renewables": 178.22937,
+      "Biofuels": 266.07025,
+      "Solar": 133.7331,
+      "Wind": 248.09993,
+      "Hydro": 1113.4961,
+      "Nuclear": 36.169163,
+      "Gas": 299.87982,
+      "Coal": 159.09375,
+      "Oil": 1418.9431
+    }
+  },
+  {
+    "country": "Iran",
+    "currently": {
+      "Other renewables": 0.09005195,
+      "Biofuels": 0.0,
+      "Solar": 1.9797261,
+      "Wind": 3.4548662,
+      "Hydro": 58.844833,
+      "Nuclear": 16.53947,
+      "Gas": 2455.535,
+      "Coal": 21.890795,
+      "Oil": 972.7815
+    }
+  },
+  {
+    "country": "South Korea",
+    "currently": {
+      "Other renewables": 61.439083,
+      "Biofuels": 8.832985,
+      "Solar": 76.28962,
+      "Wind": 8.805545,
+      "Hydro": 9.65401,
+      "Nuclear": 449.9187,
+      "Gas": 600.7471,
+      "Coal": 748.34863,
+      "Oil": 1489.8591
+    }
+  },
+  {
+    "country": "Saudi Arabia",
+    "currently": {
+      "Other renewables": 0.0,
+      "Biofuels": 0.0,
+      "Solar": 11.219934,
+      "Wind": 3.7666097,
+      "Hydro": 0.0,
+      "Nuclear": 0.0,
+      "Gas": 1141.255,
+      "Coal": 1.2508405,
+      "Oil": 2064.2385
+    }
+  },
+  {
+    "country": "Germany",
+    "currently": {
+      "Other renewables": 157.84128,
+      "Biofuels": 36.175568,
+      "Solar": 159.01846,
+      "Wind": 369.13553,
+      "Hydro": 51.01548,
+      "Nuclear": 17.987366,
+      "Gas": 756.6381,
+      "Coal": 507.2222,
+      "Oil": 1114.5157
+    }
+  },
+  {
+    "country": "Indonesia",
+    "currently": {
+      "Other renewables": 113.959656,
+      "Biofuels": 112.375595,
+      "Solar": 1.8517952,
+      "Wind": 1.2494755,
+      "Hydro": 63.876503,
+      "Nuclear": 0.0,
+      "Gas": 454.44983,
+      "Coal": 1199.9062,
+      "Oil": 860.06415
+    }
+  },
+  {
+    "country": "France",
+    "currently": {
+      "Other renewables": 30.977734,
+      "Biofuels": 38.802715,
+      "Solar": 57.79182,
+      "Wind": 135.88712,
+      "Hydro": 144.22849,
+      "Nuclear": 843.0388,
+      "Gas": 338.64163,
+      "Coal": 49.38254,
+      "Oil": 767.8821
+    }
+  },
+  {
+    "country": "Mexico",
+    "currently": {
+      "Other renewables": 19.641565,
+      "Biofuels": 2.7775824,
+      "Solar": 70.50925,
+      "Wind": 56.241932,
+      "Hydro": 52.990818,
+      "Nuclear": 30.874949,
+      "Gas": 975.7274,
+      "Coal": 73.32188,
+      "Oil": 1065.9581
+    }
+  },
+  {
+    "country": "Turkey",
+    "currently": {
+      "Other renewables": 54.523716,
+      "Biofuels": 1.5953628,
+      "Solar": 53.301117,
+      "Wind": 88.501625,
+      "Hydro": 165.87167,
+      "Nuclear": 0.0,
+      "Gas": 484.2935,
+      "Coal": 458.09818,
+      "Oil": 639.11383
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "currently": {
+      "Other renewables": 108.50302,
+      "Biofuels": 25.275047,
+      "Solar": 35.91657,
+      "Wind": 212.981,
+      "Hydro": 13.493555,
+      "Nuclear": 101.57403,
+      "Gas": 635.0352,
+      "Coal": 51.034107,
+      "Oil": 746.7802
+    }
+  },
+  {
+    "country": "Australia",
+    "currently": {
+      "Other renewables": 9.9778185,
+      "Biofuels": 1.2926255,
+      "Solar": 116.8801,
+      "Wind": 82.78206,
+      "Hydro": 39.64335,
+      "Nuclear": 0.0,
+      "Gas": 401.21503,
+      "Coal": 419.0112,
+      "Oil": 601.6536
+    }
+  },
+  {
+    "country": "Italy",
+    "currently": {
+      "Other renewables": 60.824406,
+      "Biofuels": 14.19002,
+      "Solar": 81.11822,
+      "Wind": 61.123966,
+      "Hydro": 101.1099,
+      "Nuclear": 0.0,
+      "Gas": 585.9764,
+      "Coal": 60.217636,
+      "Oil": 686.87396
+    }
+  },
+  {
+    "country": "Spain",
+    "currently": {
+      "Other renewables": 17.261862,
+      "Biofuels": 19.965641,
+      "Solar": 121.69333,
+      "Wind": 166.84135,
+      "Hydro": 66.175545,
+      "Nuclear": 141.59557,
+      "Gas": 292.98306,
+      "Coal": 32.931664,
+      "Oil": 713.4151
+    }
+  },
+  {
+    "country": "United Arab Emirates",
+    "currently": {
+      "Other renewables": 0.1060411,
+      "Biofuels": 0.0,
+      "Solar": 35.71364,
+      "Wind": 0.14014639,
+      "Hydro": 0.0,
+      "Nuclear": 80.4501,
+      "Gas": 668.87756,
+      "Coal": 28.406185,
+      "Oil": 612.2222
+    }
+  }
+]

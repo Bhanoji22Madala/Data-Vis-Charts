@@ -1,0 +1,11 @@
+[
+  { "name": "Oil",              "value": 40803.087 },
+  { "name": "Coal",             "value": 40159.461 },
+  { "name": "Gas",              "value": 30295.600 },
+  { "name": "Hydro",            "value": 7727.855 },
+  { "name": "Nuclear",          "value": 5913.220 },
+  { "name": "Wind",             "value": 5208.737 },
+  { "name": "Solar",            "value": 3672.495 },
+  { "name": "Other renewables", "value": 1934.898 },
+  { "name": "Biofuels",         "value": 1131.497 }
+]

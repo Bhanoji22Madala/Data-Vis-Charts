@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Energy Dashboard (Tabs)</title>
+  <link rel="stylesheet" href="./Public/style.css" />
+</head>
+<body>
+  <nav class="tab-nav">
+    <ul>
+      <li class="active" data-src="../scatterplot/index.html">Scatter</li>
+      <li data-src="../histogram/index.html">Histogram</li>
+      <li data-src="../piechart/index.html">Pie Chart</li>
+      <li data-src="../stacked/index.html">Stacked Bar</li>
+    </ul>
+    <div class="dash-title">
+      GLOBAL ENERGY DASHBOARD
+    </div>
+  </nav>
+
+  <div class="iframe-container">
+    <iframe id="chart-frame" src="./scatterplot/index.html" scrolling="no"></iframe>
+  </div>
+
+  <script src="./tabs.js"></script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+/* =============== Reset & Base =============== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  background: #0d0d0d;
+  color: #d9d9d9;
+  font-family: system-ui, sans-serif;
+}
+
+/* =============== Nav Tabs =============== */
+.tab-nav {
+  background: #111111;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.7);
+}
+.tab-nav ul {
+  list-style: none;
+  display: flex;
+}
+.tab-nav li {
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  color: #d9d9d9;
+}
+.tab-nav li:hover {
+  background: #222222;
+}
+.tab-nav li.active {
+  background: #01c5c4;
+  color: #0d0d0d;
+}
+
+/* =============== Iframe Container =============== */
+.iframe-container {
+  height: calc(100% - 3rem); /* subtract nav height (≈3rem) */
+  background: #eeecec;          /* fallback */
+}
+.iframe-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  overflow: hidden;
+}
+/* Ensure nav is a flex container */
+.tab-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #111;
+  padding: 0 1rem;
+}
+
+/* Left side: keep your tabs inline */
+.tab-nav .tabs {
+  display: flex;
+  list-style: none;
+}
+
+/* Right side: style the heading */
+.tab-nav .dash-title {
+  color: #01c5c4;           /* your accent color */
+  font-size: 1rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
